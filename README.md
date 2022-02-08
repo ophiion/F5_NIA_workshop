@@ -31,7 +31,7 @@ The following topics will be covered
  - [Exercise 1.1 - Setup AWS Access Key & Secret Key](1-ex/2-ex)   
  - [Exercise 1.2 - Subscribe to BIG-IP on AWS Market Place](1-ex/2-ex/3-ex)
 
-## Section 2 - Deploy and configure (Terraform and Consul NIA) for Dyanamic Service Automation
+## Section 2 - Configure Dyanamic Service Automation
 - [Exercise 2.1 - Explore the workshop code](https://github.com/hashicorp/f5-terraform-consul-sd-webinar)
 - [Exercise 2.2 - Deploy the consul datacenter and F5 BIG-IP](https://learn.hashicorp.com/tutorials/consul/consul-terraform-sync-f5-bigip-fast?in=consul/network-infrastructure-automation#deploy-consul-datacenter-and-f5-big-ip)
 - [Exercise 2.3 - Deploy FAST](https://learn.hashicorp.com/tutorials/consul/consul-terraform-sync-f5-bigip-fast?in=consul/network-infrastructure-automation#deploy-fast-template)
