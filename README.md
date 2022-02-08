@@ -16,7 +16,7 @@ If you have any questions or issues, [Click here to open an issue](https://githu
 
 **Pre-requisites**
 
-To get the most out of this training, the student should already have some basic knowledge about the use of Terraform, Consul and BIG-IP. if you are new to Terraform automation for BIG-IP and configuring service discovery using Consul we recommend going through this [quick learn guide](https://learn.hashicorp.com/tutorials/consul/load-balancing-f5). 
+To get the most out of this training, the student should already have some basic knowledge about the use of Terraform, Consul and BIG-IP.
 
 **Lab Environment**
 
