@@ -1,7 +1,7 @@
-Welcome to the Dynamic Service Automation workshop.
+# Dynamic Service Automation workshop
+Welcome to F5 and HashiCorp automation workshop. 
 
-This training will take you through the basic knowledge and exercises to
-gain understanding on how F5 BIG-IP can leverage HashiCorp Terraform and HashiCorp Consul to facilitate
+This training will take you through the basic knowledge and exercises to gain understanding on how F5 BIG-IP can leverage HashiCorp Terraform and HashiCorp Consul to facilitate
 automated application network delivery.
 
 This workshop will cover:
